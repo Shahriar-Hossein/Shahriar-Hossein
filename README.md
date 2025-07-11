@@ -17,7 +17,11 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,vue,nextjs,react,tailwind,typescript,javascript,mysql,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nextjs,react,tailwind,typescript,javascript,mysql,git,vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Livewire-%23F05340?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
