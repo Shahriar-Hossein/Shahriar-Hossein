@@ -6,11 +6,13 @@
 
 ## 🧠 About Me
 
-- 💼 Junior Software Engineer at **WPXPO**
-- 🧑‍🏫 **Mentor** for MERN-stack interns at **Sharks Capital Inc**
-- 🏗️ **Freelance Developer** for an LMS project at **SoftDeft** (Laravel + Livewire)
-- 📚 Final-year CS student, currently completing a **Traffic Control System Thesis**
-- ⚙️ Focused on Laravel, React, API architecture, component systems & startup products
+- 💼 **Junior Software Engineer** at [**WPXPO**](https://wpxpo.com)
+- 🧑‍🏫 **Mentor** for MERN-stack interns at [**Sharks Capital Inc**](https://www.facebook.com/profile.php?id=61576568017984)
+- 🏗️ **Freelance Developer** for an LMS project at [**SoftDeft**](https://softdeft.com/) (Laravel + Livewire)
+- 🏢 Former **Junior Software Engineer (Laravel + Vue)** at [**DevSpace**](https://www.linkedin.com/company/devspacebd)  
+  *Aug 2023 – Jun 2024*  
+- 📚 Final-year CS student, currently completing a [**Traffic Control System Thesis**](https://github.com/Shahriar-Hossein/traffic-signal-thesis-simulation)
+- ⚙️ Focused on Laravel, React, API architecture
 
 ---
 
